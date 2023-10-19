@@ -17,8 +17,6 @@ To create this delicious project, we used the following tech stack:
 - GitHub Repository: [Zomato Clone Repository](https://github.com/SwamiTheDev/Zomato-Clone) 📁
 - Live Demo: [Zomato Clone Live Demo](https://zomato-clone-swamithedev.vercel.app/) 🚀
 
-## Screenshots 📸
-![Zomato Clone Screenshot](insert_image_url_here)
 
 ## How to Contribute 🤝
 We welcome contributions from the community to make our Zomato Clone even more amazing. Feel free to fork our repository and open a pull request with your improvements or bug fixes.
